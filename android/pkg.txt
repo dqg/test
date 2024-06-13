@@ -1,0 +1,7 @@
+com.aurora.store
+org.schabi.newpipe
+com.menny.android.anysoftkeyboard
+org.fossify.phone
+org.fossify.messages
+com.topjohnwu.magisk
+com.sunilpaulmathew.debloater
